@@ -1,6 +1,6 @@
-# 👨‍💻 Thiago Prioto
+# 👨‍💻 Thiago Prioto Francisco Silva
 
-**`Desenvolvedor Back-end`**
+**`Desenvolvedor Backend`**
 
 Olá! Meu nome é Thiago, tenho 19 anos, e venho de São José do Rio Preto-SP. Concluí o ensino médio na E.E. Pio X, onde me especializei com um curso técnico em informática. Atualmente, estou focado em minha graduação em Análise e Desenvolvimento de Sistemas na UNIP. Minha paixão por tecnologia me impulsiona a buscar aprendizado contínuo e a aplicar novos conhecimentos em minhas experiências profissionais.
 
