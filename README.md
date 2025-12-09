@@ -44,7 +44,7 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 
 <div align="center">
   <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Thiagoprioto&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats-thiago.vercel.app/api/top-langs/?username=Thiagoprioto&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Thiagoprioto&layout=compact&theme=dracula" />
 </div>
 
 ---
