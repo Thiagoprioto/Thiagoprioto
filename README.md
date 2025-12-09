@@ -50,6 +50,6 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 ---
 
 ##
-![Snake animation](https://github.com/Thiagoprioto/Thiagoprioto/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Thiagoprioto/Thiagoprioto/blob/output/github-contribution-grid-snake.svg)
 
 
