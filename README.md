@@ -43,8 +43,8 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thiagoprioto&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagoprioto&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats-thiago.vercel.app/api?username=Thiagoprioto&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-thiago.vercel.app/api/top-langs/?username=Thiagoprioto&layout=compact&theme=dracula" />
 </div>
 
 ---
