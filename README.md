@@ -19,9 +19,9 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 
 ## Contatos
 
-<a href="https://discord.com/users/SeuID" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="mailto:thiagoprioto@gmail.com" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://www.linkedin.com/in/thiago-prioto-silva" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://discord.com/users/619952756886601738" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=discord"/></a>
+<a href="thiagop.devv@gmail.com" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.linkedin.com/in/thiagoprioto-dev/" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
 
 ---
 
