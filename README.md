@@ -47,8 +47,3 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
   <img height="200" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Thiagoprioto&layout=compact&theme=dracula" />
 </div>
 
----
-
-##
-<img src="https://raw.githubusercontent.com/Thiagoprioto/Thiagoprioto/output/snake.svg"/>
-
