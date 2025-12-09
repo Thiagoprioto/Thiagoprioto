@@ -40,10 +40,6 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-
----
-
 ## 📊 Estatísticas
 
 <div align="center">
