@@ -50,6 +50,7 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 ---
 
 ##
+
 <img src="https://raw.githubusercontent.com/Thiagoprioto/Thiagoprioto/output/snake.svg" alt="Snake animation" />
 
 
