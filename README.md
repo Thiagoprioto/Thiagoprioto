@@ -2,11 +2,11 @@
 
 ###
 
-<h6 align="left">Desenvolvedor Backend</h6>
+**`Desenvolvedor Backend`**
 
 ###
 
-<h6 align="left">☕ Desenvolvedor Java em formação | 20 anos | São José do Rio Preto – SP<br><br>Sou apaixonado por tecnologia e atualmente estou focado em me desenvolver como programador Java. Concluí o ensino médio na E.E. Pio X, junto ao curso técnico em Informática, que me despertou para a área de desenvolvimento.<br><br>Hoje curso Análise e Desenvolvimento de Sistemas na UNIP, onde venho aprimorando minhas habilidades em Java, POO, Spring Framework, além de boas práticas de desenvolvimento.<br>Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para evoluir como profissional.</h6>
+<h4 align="left">☕ Desenvolvedor Java em formação | 20 anos | São José do Rio Preto – SP<br><br>Sou apaixonado por tecnologia e atualmente estou focado em me desenvolver como programador Java. Concluí o ensino médio na E.E. Pio X, junto ao curso técnico em Informática, que me despertou para a área de desenvolvimento.<br><br>Hoje curso Análise e Desenvolvimento de Sistemas na UNIP, onde venho aprimorando minhas habilidades em Java, POO, Spring Framework, além de boas práticas de desenvolvimento.<br>Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para evoluir como profissional.</h4>
 
 ###
 
