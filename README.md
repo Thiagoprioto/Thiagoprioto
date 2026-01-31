@@ -43,15 +43,14 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Thiagoprioto&show_icons=true&theme=radical" />
-  <img height="200" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Thiagoprioto&layout=compact&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiagoprioto&radius=16&theme=react&area=true&order=5&lenguage=pt-br" height="300" alt="activity-graph graph" />
 </div>
 
 ---
 
 ##
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thiagoprioto/Thiagoprioto/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thiagoprioto/Thiagoprioto/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thiagoprioto/Thiagoprioto/output/github-snake.svg" />
