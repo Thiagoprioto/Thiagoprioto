@@ -1,19 +1,34 @@
-# 👨‍💻 Thiago Prioto Francisco Silva
+# Olá, eu sou o Thiago Prioto! 👋
 
-### ☕ Desenvolvedor Java Backend em formação  
-  20 anos • São José do Rio Preto – SP
+Graduado em **Análise e Desenvolvimento de Sistemas (UNIP)** com foco na construção de APIs RESTful e aplicações backend desacopladas utilizando **.NET (C#)** e **Java (Spring Boot)**.
 
-Sou apaixonado por tecnologia e atualmente estou focado em evoluir como **desenvolvedor Java**.  
-Concluí o ensino médio na **E.E. Pio X**, junto ao **curso técnico em Informática**, onde tive meu primeiro contato real com programação.
+Trago experiência prática no desenvolvimento de software com arquitetura em camadas, injeção de dependência, ORMs e bancos de dados relacionais, além de bagagem anterior em Suporte Técnico / Helpdesk (N1) e rotinas corporativas.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas na UNIP**, aprimorando meus conhecimentos em:
+---
 
-- Java & Programação Orientada a Objetos  
-- Spring Framework  
-- Banco de Dados Relacionais  
-- Boas práticas e padrões de desenvolvimento  
+### 💻 Stack Técnica
 
-Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para crescer como profissional.
+- **Linguagens:** C#, Java, SQL, TypeScript, JavaScript
+- **Backend & Frameworks:** .NET 10 (ASP.NET Core Web API), Entity Framework Core, Spring Boot, Spring Data JPA
+- **Bancos de Dados:** SQL Server, PostgreSQL
+- **Ferramentas & Boas Práticas:** Git/GitHub, Visual Studio, VS Code, SSMS, OpenAPI / Scalar, DTOs, Mappers, Arquitetura REST
+- **Outras Vivências:** Suporte Técnico / Helpdesk N1 (Sistemas Operacionais, Redes e Chamados)
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🏥 **[MedicationManagerAPI](https://github.com/Thiagoprioto/MedicationManagerAPI)** — API RESTful em .NET 10 & SQL Server construída em arquitetura em camadas desacoplada, utilizando DTOs, Mappers estáticos de alta performance, Migrations no EF Core e documentação via Scalar.
+- 📚 **[BookstoreManager](https://github.com/Thiagoprioto/BookstoreManager)** — API RESTful em Java & Spring Boot com validações declarativas (Bean Validation), Spring Data JPA, exceções customizadas de domínio e PostgreSQL.
+- 💻 **[Sistema de Chamados (Projeto PIM)](https://github.com/PIM)** — Solução integrando app mobile (.NET MAUI) e painel desktop administrativo (Windows Forms) a um banco SQL Server centralizado.
+
+---
+
+### 📜 Formação & Certificações
+
+- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** — UNIP
+- **Scrum Foundation Professional Certificate (SFPC)** — CertiProf
+- **Google Cloud Foundation** — SENAI 
 
 ---
 
@@ -22,6 +37,7 @@ Busco sempre aprender novas tecnologias e aplicá-las em projetos reais para cre
 <a href="https://discord.com/users/619952756886601738" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=discord"/></a>
 <a href="thiagop.devv@gmail.com" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.linkedin.com/in/thiagoprioto-dev/" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
+[thiagop.devv@gmail.com](mailto:thiagop.devv@gmail.com)
 
 ---
 
