@@ -43,12 +43,13 @@ Trago experiência prática no desenvolvimento de software com arquitetura em ca
 ## Tecnologias & Ferramentas
 
 <div style="display: flex; gap: 10px;">
-  <img height="40" src="https://skillicons.dev/icons?i=java"/>
-  <img height="40" src="https://skillicons.dev/icons?i=spring"/>
-  <img height="40" src="https://skillicons.dev/icons?i=mysql"/>
+  <img height="40" src="https://skillicons.dev/icons?i=cs"/>
+  <img height="40" src="https://skillicons.dev/icons?i=dotnet"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img height="40" src="https://skillicons.dev/icons?i=postgres"/>
   <img height="40" src="https://skillicons.dev/icons?i=docker"/>
   <img height="40" src="https://skillicons.dev/icons?i=linux"/>
+  <img height="40" src="https://skillicons.dev/icons?i=visualstudio"/>
   <img height="40" src="https://skillicons.dev/icons?i=git"/>
   <img height="40" src="https://skillicons.dev/icons?i=github"/>
 </div>
