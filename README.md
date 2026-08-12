@@ -50,6 +50,7 @@ Trago experiência prática no desenvolvimento de software com arquitetura em ca
   <img height="40" src="https://skillicons.dev/icons?i=docker"/>
   <img height="40" src="https://skillicons.dev/icons?i=linux"/>
   <img height="40" src="https://skillicons.dev/icons?i=visualstudio"/>
+  <img height="40" src="https://skillicons.dev/icons?i=rider"/>
   <img height="40" src="https://skillicons.dev/icons?i=git"/>
   <img height="40" src="https://skillicons.dev/icons?i=github"/>
 </div>
