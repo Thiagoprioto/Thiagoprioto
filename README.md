@@ -20,7 +20,7 @@ Trago experiência prática no desenvolvimento de software com arquitetura em ca
 
 - 🏥 **[MedicationManagerAPI](https://github.com/Thiagoprioto/MedicationManagerAPI)** — API RESTful em .NET 10 & SQL Server construída em arquitetura em camadas desacoplada, utilizando DTOs, Mappers estáticos de alta performance, Migrations no EF Core e documentação via Scalar.
 - 📚 **[BookstoreManager](https://github.com/Thiagoprioto/bookstore_manager)** — API RESTful em Java & Spring Boot com validações declarativas (Bean Validation), Spring Data JPA, exceções customizadas de domínio e PostgreSQL.
-- 💻 **[Sistema de Chamados (Projeto PIM)](https://github.com/PIM4-Backend)** — Solução integrando app mobile (.NET MAUI) e painel desktop administrativo (Windows Forms) a um banco SQL Server centralizado.
+- 💻 **[Sistema de Chamados (Projeto PIM)](https://github.com/Thiagoprioto/PIM4-Backend)** — Solução integrando app mobile (.NET MAUI) e painel desktop administrativo (Windows Forms) a um banco SQL Server centralizado.
 
 ---
 
