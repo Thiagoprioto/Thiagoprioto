@@ -35,9 +35,8 @@ Trago experiência prática no desenvolvimento de software com arquitetura em ca
 ## Contatos
 
 <a href="https://discord.com/users/619952756886601738" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=discord"/></a>
-<a href="thiagop.devv@gmail.com" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href= (mailto:thiagop.devv@gmail.com) target="_blank"><img height="30" src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.linkedin.com/in/thiagoprioto-dev/" target="_blank"><img height="30" src="https://skillicons.dev/icons?i=linkedin"/></a>
-[thiagop.devv@gmail.com](mailto:thiagop.devv@gmail.com)
 
 ---
 
